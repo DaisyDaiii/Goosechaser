@@ -1,2 +1,2 @@
 # Goosechaser
-文本捣蛋鹅游戏
+A text console game developed in Python.
